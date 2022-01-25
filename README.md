@@ -1,5 +1,7 @@
 # test
 
+nickl-cd test repo
+
 ## Project setup
 ```
 npm install
